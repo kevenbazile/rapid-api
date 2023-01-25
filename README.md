@@ -40,6 +40,7 @@ To get started with this project, you will need to sign up for an account on Rap
 
 Installing
 
+
 Install the RapidAPI SDK for the programming language of your choice (ex: npm install rapidapi-js for JavaScript)
 Import the SDK and initialize it with your API key
 Use the provided functions to make API calls and access the restaurant's information.
